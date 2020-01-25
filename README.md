@@ -12,6 +12,10 @@ From this login form, admin and teacher can login.
 ___
 2. Admin
 ![](Images_Used/second.PNG)
+For admin login:
+**USERNAME** : Admin
+**PASSWORD** : 12345
+
 We have added six buttons:
 
 **Attendance Sheet** Button will display students’ attendance.
@@ -29,6 +33,9 @@ We have added six buttons:
 ___
 3. Teacher 
 ![](Images_Used/third.PNG)
+For teacher login:
+**USERNAME** : Sir Ali *(or choose any other from CSV)*
+**PASSWORD** : ali123 
 There are four main buttons in teacher’s form.
 
 **View Attendance** will help the teacher to view attendance after facing recognized attendance is marked.
