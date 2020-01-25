@@ -1,0 +1,7 @@
+ID | NAME | ATTENDANCE | EMAIL
+1 | FAREENA | 0 | shimmiehtesham229@gmail.com
+2 | HASHAM | 1 | m.hasham681@gmail.com
+3 | MAAZ | 0 | msmunami63@gmail.com
+4 | MIDHA | 1 | midhatahirkhan2011@gmail.com
+5 | SUMMAIYA | 1 | summaiyasarfaraz08@gmail.com
+6 | WAREESHA | 0 | warisha.nasir356@gmail.com
