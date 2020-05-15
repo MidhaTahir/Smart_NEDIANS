@@ -2,6 +2,10 @@
 
 It is a university project, we have made a smart attendance system using tkinter for frontend interfacing and open-cv for face recognition.
 
+## Contributors:
+1) [Sumaiyya Sarfaraz](https://github.com/Summaiya1).
+2) [Midha Tahir](https://github.com/MidhaTahir).
+
 ___
 ## Getting Started
 Our system is divided into three windows:
